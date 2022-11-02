@@ -22,7 +22,9 @@ This is a basic library management system created using C++. It provides the mai
 
 
 
-![main_menu](G:\My Drive\MMM3\EN3085_OOC\coursework_2\Screenshots\main_menu.png)
+![main_menu](images/main_menu.png)
+
+
 
 
 
