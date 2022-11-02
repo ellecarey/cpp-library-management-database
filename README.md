@@ -1,6 +1,6 @@
 # C++ Library Management System
 
-This is a library management system created using C++. It provides the main functions you would expect from a library database system, such as adding, deleting, issuing, returning, etc.
+This is a basic library management system created using C++. It provides the main functions you would expect from a library database system, such as adding, deleting, issuing, returning, etc.
 
 
 
@@ -15,6 +15,14 @@ This is a library management system created using C++. It provides the main func
 * View the current catalogue
 * View the number of entries in the catalogue
 * Automatically creates and updates 'catalogue.txt' as changes are made 
+
+
+
+## Screenshots
+
+
+
+![main_menu](G:\My Drive\MMM3\EN3085_OOC\coursework_2\Screenshots\main_menu.png)
 
 
 
